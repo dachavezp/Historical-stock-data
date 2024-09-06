@@ -1,0 +1,1 @@
+This Python script uses the yfinance library to retrieve stock data from Yahoo Finance for a given ticker symbol (in this case, AAPL for Apple). The data is then processed to include additional calculated fields such as moving averages, returns, and date components. The processed data is written to a CSV file in the working directory
